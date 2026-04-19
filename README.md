@@ -76,7 +76,7 @@ virtual-mouse/
 ### 1. Clone repository
 
 ```
-git clone https://github.com/bhavanchandel78/Mouse-control-using-hand-gesture.git
+git clone https://github.com/bhavanachandel78/Mouse-control-using-hand-gesture.git
 cd Mouse-control-using-hand-gesture
 ```
 
